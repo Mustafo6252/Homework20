@@ -1,4 +1,4 @@
-[hometask1.task11.csv](https://github.com/user-attachments/files/21013953/hometask1.task11.csv)[hometask1_task10.csv](https://github.com/user-attachments/files/21013942/hometask1_task10.csv)[hometask1_task10.csv](https://github.com/user-attachments/files/21013935/hometask1_task10.csv)# Homework20
+# Homework20
 
 # Task 1
 
@@ -62,18 +62,5 @@ bu proyektda 2023 yildan keyingi savdo sanalarini ajratib oldik
 
 ## 💻 Sample Task 10 file
 
-[Uploading hometask1.ta"sale_date"
-"2025-07-01"
-"2025-07-01"
-"2025-07-02"
-"2025-07-02"
-"2025-07-03"
-"2025-07-03"
-"2025-07-04"
-"2025-07-04"
-"2025-07-05"
-"2025-07-05"
-sk11.csv…]()
-
-
+[hometask1_task10.csv](https://github.com/user-attachments/files/21013969/hometask1_task10.csv)
 
