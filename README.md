@@ -1,4 +1,4 @@
-# Homework20
+[hometask1.task11.csv](https://github.com/user-attachments/files/21013953/hometask1.task11.csv)[hometask1_task10.csv](https://github.com/user-attachments/files/21013942/hometask1_task10.csv)[hometask1_task10.csv](https://github.com/user-attachments/files/21013935/hometask1_task10.csv)# Homework20
 
 # Task 1
 
@@ -22,44 +22,58 @@ bu proyektda 'Products' table dagi barcha elementlar output qilinadi
 
 # Task 5
 
-bu proyektda biz 'categories' degan table yaraddik va unga id ,name vahakoza narslarni berdik
+bu proyektda  narxi 50 000 dan ko'p va stock 20 dan kam bo'lgan elementlarni ajratib oldik.
 
-## 💻 Sample Task 1 Screenshot
+## 💻 Sample Task 5 file
 
-<img width="400" alt="Screenshot 2025-06-28 at 00 52 19" src="https://github.com/user-attachments/assets/848a4bb5-805d-4b52-a2f2-b11a0b377e2c" />
+[hometask1_task5.csv](https://github.com/user-attachments/files/21013839/hometask1_task5.csv)
+
 # Task 6
 
-bu proyektda biz 'categories' degan table yaraddik va unga id ,name vahakoza narslarni berdik
+bu proyektda narxlarni 15% ga oshirdik
 
-## 💻 Sample Task 1 Screenshot
+## 💻 Sample Task 6 file
 
-<img width="400" alt="Screenshot 2025-06-28 at 00 52 19" src="https://github.com/user-attachments/assets/848a4bb5-805d-4b52-a2f2-b11a0b377e2c" />
+[hometask1_task6.csv](https://github.com/user-attachments/files/21013871/hometask1_task6.csv)
+
 # Task 7
 
-bu proyektda biz 'categories' degan table yaraddik va unga id ,name vahakoza narslarni berdik
-
-## 💻 Sample Task 1 Screenshot
-
-<img width="400" alt="Screenshot 2025-06-28 at 00 52 19" src="https://github.com/user-attachments/assets/848a4bb5-805d-4b52-a2f2-b11a0b377e2c" />
+bu proyektda stock =0 bo'lgan elementlarni o'chirdik.
 
 # Task 8
 
-bu proyektda biz 'categories' degan table yaraddik va unga id ,name vahakoza narslarni berdik
+bu proyektda oxirgi marta yangilangan vaqtni hozirgi vaqtga yangiladik
 
-## 💻 Sample Task 1 Screenshot
+## 💻 Sample Task 8 file
 
-<img width="400" alt="Screenshot 2025-06-28 at 00 52 19" src="https://github.com/user-attachments/assets/848a4bb5-805d-4b52-a2f2-b11a0b377e2c" />
+[hometask1_task8.csv](https://github.com/user-attachments/files/21013913/hometask1_task8.csv)
+
 # Task 9
 
-bu proyektda biz 'categories' degan table yaraddik va unga id ,name vahakoza narslarni berdik
+bu proyektda 2 kundan oldin yaratilgan mahsulotni ajratib oldik
 
-## 💻 Sample Task 1 Screenshot
+## 💻 Sample Task 9 file
 
-<img width="400" alt="Screenshot 2025-06-28 at 00 52 19" src="https://github.com/user-attachments/assets/848a4bb5-805d-4b52-a2f2-b11a0b377e2c" />
+[hometask1_task9.csv](https://github.com/user-attachments/files/21013924/hometask1_task9.csv)
+
 # Task 10
 
-bu proyektda biz 'categories' degan table yaraddik va unga id ,name vahakoza narslarni berdik
+bu proyektda 2023 yildan keyingi savdo sanalarini ajratib oldik
 
-## 💻 Sample Task 1 Screenshot
+## 💻 Sample Task 10 file
 
-<img width="400" alt="Screenshot 2025-06-28 at 00 52 19" src="https://github.com/user-attachments/assets/848a4bb5-805d-4b52-a2f2-b11a0b377e2c" />
+[Uploading hometask1.ta"sale_date"
+"2025-07-01"
+"2025-07-01"
+"2025-07-02"
+"2025-07-02"
+"2025-07-03"
+"2025-07-03"
+"2025-07-04"
+"2025-07-04"
+"2025-07-05"
+"2025-07-05"
+sk11.csv…]()
+
+
+
